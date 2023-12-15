@@ -1,4 +1,4 @@
-module goftp.io/server/v2
+module github.com/Felamande/server/v2
 
 go 1.12
 

@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/Felamande/server/v2"
 	minio "github.com/minio/minio-go/v6"
-	"goftp.io/server/v2"
 )
 
 var (

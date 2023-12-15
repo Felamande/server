@@ -5,8 +5,8 @@ package main
 import (
 	"log"
 
-	"goftp.io/server/v2"
-	"goftp.io/server/v2/driver/file"
+	"github.com/Felamande/server/v2"
+	"github.com/Felamande/server/v2/driver/file"
 )
 
 func main() {

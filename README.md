@@ -1,5 +1,5 @@
 # server
-
+fork from gitea.com/goftp/server
 [![](http://gocover.io/_badge/gitea.com/goftp/server)](http://gocover.io/gitea.com/goftp/server)
 [![](https://goreportcard.com/badge/gitea.com/goftp/server)](https://goreportcard.com/report/gitea.com/goftp/server)
 

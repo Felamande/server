@@ -16,7 +16,7 @@ import (
 	"syscall"
 	"time"
 
-	"goftp.io/server/v2/ratelimit"
+	"github.com/Felamande/server/v2/ratelimit"
 )
 
 // DataSocket describes a data socket is used to send non-control data between the client and

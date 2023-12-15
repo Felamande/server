@@ -13,7 +13,7 @@ import (
 	"net"
 	"strconv"
 
-	"goftp.io/server/v2/ratelimit"
+	"github.com/Felamande/server/v2/ratelimit"
 )
 
 var (
